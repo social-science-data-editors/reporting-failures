@@ -1,0 +1,6 @@
+question,required information,explanation
+DOI of the article,DOI,"DOI of the article in question. No need to provide title or other information."
+DOI of the replication package,DOI,"DOI of the replication package. Your evidence of failure to reproduce must start with the original published information."
+URL of evidence,URL,"URL of evidence. This can be a Github repository with full log files, a computational online system, an SSRP report. See notes. Evidence must show complete start-to-finish run of the code, or allow somebody to create such a run."
+Description_URL,URL,"Provide a URL for the narrative describing the problem. This can be a file within the aforementioned Github repository, a Google Doc, etc."
+Description_text,Text,"Provide a narrative here if not providing a URL.
